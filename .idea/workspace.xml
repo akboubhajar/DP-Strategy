@@ -4,16 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="344060ad-4d22-4ae6-8cfd-44b00f3ec6e3" name="Changes" comment="" />
+    <list default="true" id="344060ad-4d22-4ae6-8cfd-44b00f3ec6e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/DefaultStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/StrategyImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/StrategyImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakboub/StrategyImpl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DefaultStrategyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Strategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyImpl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StrategyImpl3.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.hakboub.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hakboub.App" />
+      <module name="DP-Strategy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hakboub.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hakboub.App" />
+      <module name="DP-Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakboub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.hakboub.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -23,8 +101,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733947121574</updated>
-      <workItem from="1733947122207" duration="16000" />
+      <workItem from="1733947122207" duration="5104000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DP_Strategy$com_hakboub_App.ic" NAME="com.hakboub.App Coverage Results" MODIFIED="1734020307195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hakboub.*</FILTER>
+    </SUITE>
   </component>
 </project>
